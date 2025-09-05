@@ -5,14 +5,14 @@ Feed it ANY text file. Watch it devour knowledge.
 DataVortex doesn’t just spit generic answers… it swirls through YOUR documents and delivers laser-focused answers like a literal storm 🌪️💨. Any question, any text—DataVortex has you covered, BRO.
 
 FEATURES
------------------
+
 🧠 Custom Text File Power – Feed it any TXT/PDF/doc and it instantly learns it.
 🌪️ Instant Answers – No fluff, pure fact-storm.
 ✨ Optional Typewriter Effect – Watch answers appear like a raging storm forming.
 ⚡ Lightweight & Fast – Hurricane-speed knowledge on any machine.
 
 WHY DATAVORTEX?
----------------------
+
 Because your own docs deserve vortex-level answers.
 Because questions from your files should never get lost.
 Because this bot turns your text into a knowledge superstorm 🌪️💀.
@@ -24,6 +24,10 @@ git clone https://github.com/prodiskvrma-afk/DataVortex.git
 cd DataVortex
 
 pip install -r requirements.txt
+
+Create a .env file in the project root and drop in your Groq API key:
+
+echo GROQ_API_KEY=your_api_key_here > .env
 
 HOW TO USE
 ----------------
