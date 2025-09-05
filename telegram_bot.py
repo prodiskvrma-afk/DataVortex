@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Your Telegram Bot token
-TELEGRAM_TOKEN = "8443694176:AAHZYXsx1ufSSasB8wjIBrrL4h4Zt3oSUkA"
+TELEGRAM_TOKEN = "YOU CAN GET THIS TOKEN FROM BotFather BOT"
 
 # Your Flask server (make sure it's running!)
 API_URL = "http://127.0.0.1:5000/ask"
