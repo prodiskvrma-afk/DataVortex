@@ -1,0 +1,25 @@
+# --- Environment & secrets ---
+.env
+
+# --- Python cache stuff ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- FAISS index files ---
+faiss_index/
+*.faiss
+
+# --- Logs ---
+*.log
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db

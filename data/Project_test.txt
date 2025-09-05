@@ -1,0 +1,68 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn. 
+AI applications include expert systems, natural language processing, speech recognition, and machine vision.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines two powerful approaches:
+1. Retrieval: fetching relevant information from a knowledge base.
+2. Generation: using a language model to generate human-like answers.
+
+Benefits of RAG:
+- Provides accurate answers grounded in data.
+- Reduces hallucinations from language models.
+- Can scale across multiple knowledge sources.
+
+FAISS (Facebook AI Similarity Search) is a library that helps store and search embeddings efficiently.
+It is commonly used in AI projects for semantic search and retrieval.
+
+LangChain is a framework designed to simplify building applications powered by large language models (LLMs). 
+It provides tools for prompt management, chaining multiple components, and connecting to data sources.
+
+Groq is an inference engine known for speed and efficiency. It allows developers to run large models quickly at low cost.
+
+The Indus Valley Civilization, also known as the Harappan Civilization, was one of the world’s earliest urban societies, flourishing around 3300–1300 BCE in what is now Pakistan and northwest India. It was remarkable for its advanced city planning: streets laid out in perfect grids, standardized fired-brick houses, and one of the first known urban drainage systems. Cities like Harappa and Mohenjo-Daro had massive granaries, public baths, and marketplaces that indicate a well-organized society. The civilization also engaged in long-distance trade with Mesopotamia, exchanging goods like beads, cotton, and precious stones for metals and luxury items. Despite its advancements, the script of the Indus Valley remains undeciphered to this day, leaving many mysteries about its culture, politics, and religion unsolved. Around 1900 BCE, the civilization began to decline, possibly due to environmental changes like river shifts, droughts, or resource depletion. By 1300 BCE, most of the cities were abandoned, marking the end of one of humanity’s earliest great urban experiments.
+
+The Indus Valley Civilization, also known as the Harappan Civilization, was one of the earliest cradles of urban life, existing from around 3300 to 1300 BCE in modern-day Pakistan and northwest India. Its cities, such as Harappa and Mohenjo-Daro, displayed some of the most advanced urban planning of the ancient world: streets built in precise grid patterns, drainage systems that rival modern infrastructure, and standardized brick houses that show an impressive sense of order. The people of this civilization were also skilled traders, exchanging beads, cotton, and precious stones with distant regions like Mesopotamia. However, their script remains undeciphered, creating one of the greatest mysteries in archaeology. Around 1900 BCE, the civilization began to decline, likely due to environmental changes such as shifting rivers and prolonged droughts, eventually fading into history.
+
+Dinosaurs ruled the Earth for more than 165 million years, from the late Triassic period about 230 million years ago until the end of the Cretaceous period around 65 million years ago. These magnificent reptiles evolved into an astonishing variety of species, from the massive, long-necked sauropods like Brachiosaurus to the terrifying predators like Tyrannosaurus rex. Dinosaurs dominated land ecosystems, while flying reptiles like pterosaurs ruled the skies. Despite their reign, a catastrophic asteroid impact combined with massive volcanic activity is believed to have caused their sudden extinction, wiping out nearly 75% of life on Earth. Yet, not all was lost—modern birds are considered the direct descendants of theropod dinosaurs, carrying on their ancient legacy in the skies above us.
+
+The internet is one of the most transformative inventions in human history, connecting billions of people and revolutionizing communication, commerce, and knowledge. It began as ARPANET in the late 1960s, a military project to connect computers at different research institutions. Over time, it evolved into the modern web, with the invention of the World Wide Web in 1989 by Tim Berners-Lee serving as a turning point. Today, the internet powers social media platforms, online shopping, cloud computing, artificial intelligence, and countless forms of entertainment. However, it also brings challenges, such as misinformation, cybercrime, and privacy concerns. Despite these, it continues to expand, shaping how humans live, learn, and interact across the globe.
+
+Space exploration represents humanity’s drive to push boundaries and seek the unknown. Beginning with the launch of Sputnik 1 in 1957 by the Soviet Union, humans have since landed on the Moon, sent probes to every planet in the solar system, and even captured the first images of black holes. Space travel has given rise to technologies like GPS, satellite communication, and weather forecasting. The International Space Station serves as a hub of cooperation, where astronauts from multiple countries live and work together. Looking ahead, missions to Mars, asteroid mining, and possibly interstellar travel remain on the horizon. Yet space exploration also raises philosophical questions: What is humanity’s place in the universe? Are we alone, or do other intelligent civilizations exist among the stars?
+
+Ancient Egypt remains one of the most iconic civilizations in human history, flourishing for over 3,000 years along the fertile banks of the Nile River. Known for its massive pyramids, temples, and statues, Egypt was also a center of science, mathematics, and medicine. Pharaohs ruled as divine kings, and religion played a central role in society, with gods like Ra, Osiris, and Isis shaping their worldview. Egyptian hieroglyphs, a complex system of writing, recorded everything from religious texts to administrative records. Agriculture thrived due to the Nile’s predictable flooding, allowing Egypt to become a powerful and stable empire. Even today, the mysteries of mummification, the grandeur of the pyramids, and the brilliance of their cultural achievements continue to captivate the world.
+
+Indus Valley Civilization
+The Indus Valley Civilization, also called the Harappan Civilization, thrived between 3300–1300 BCE in what is now Pakistan and northwest India. Cities like Harappa and Mohenjo-Daro were marvels of urban planning, featuring streets arranged in perfect grids, standardized fired-brick houses, advanced public baths, and an elaborate drainage system. The civilization was highly skilled in trade, exchanging beads, cotton, and precious stones with distant Mesopotamia. Despite their achievements, the Indus script remains undeciphered, leaving historians puzzled about their governance, religion, and culture. Around 1900 BCE, environmental changes, shifting rivers, and resource depletion contributed to the civilization’s decline, leading to the abandonment of most cities by 1300 BCE.
+
+Ancient Egypt
+Ancient Egypt flourished along the Nile River for over 3,000 years, known for its monumental architecture, including pyramids, temples, and obelisks. Pharaohs were regarded as divine rulers, and Egyptian society was deeply religious, worshiping gods like Ra, Osiris, and Isis. Hieroglyphics recorded religious, administrative, and literary works, revealing complex knowledge in science, mathematics, and medicine. Agriculture relied on the Nile’s predictable flooding, enabling prosperity and stability. Mummification practices preserved bodies for the afterlife, demonstrating advanced embalming techniques. Egypt’s legacy continues to captivate the world due to its architecture, art, and profound cultural contributions.
+
+Roman Empire
+The Roman Empire, founded in 27 BCE, became one of the largest empires in history, spanning Europe, North Africa, and the Middle East. Romans excelled in architecture, engineering, and law, building aqueducts, roads, and amphitheaters that influenced future civilizations. Governance included a Senate and codified laws, such as the Twelve Tables, forming the foundation of modern legal systems. The empire was culturally rich, producing art, literature, and philosophy. Rome eventually split into Eastern and Western Empires; the Western Empire fell in 476 CE, while the Eastern Byzantine Empire persisted for nearly a thousand more years, preserving Roman culture and knowledge.
+
+Dinosaurs and Prehistoric Life
+Dinosaurs roamed the Earth for over 165 million years, evolving into massive herbivores like Brachiosaurus and deadly predators like Tyrannosaurus rex. Pterosaurs dominated the skies, and marine reptiles thrived in oceans. A catastrophic asteroid impact, combined with massive volcanic activity, caused their extinction around 65 million years ago. Birds are considered the modern descendants of theropod dinosaurs. Fossil evidence reveals how these creatures lived, hunted, and adapted to changing environments, shaping the evolutionary path of life on Earth.
+
+Space Exploration
+Space exploration began with the launch of Sputnik 1 in 1957, ushering in the space age. Humans have since landed on the Moon, sent probes to planets and asteroids, and captured images of distant galaxies and black holes. Satellites revolutionized communication, navigation, and weather forecasting. The International Space Station fosters international collaboration, housing astronauts from multiple countries. Future missions aim for Mars colonization, asteroid mining, and interstellar travel. Space exploration continues to inspire questions about humanity’s place in the universe and the possibility of extraterrestrial life.
+
+Internet and Modern Technology
+The internet connects billions worldwide, revolutionizing communication, commerce, and knowledge. Starting as ARPANET in the 1960s, it evolved into the World Wide Web thanks to Tim Berners-Lee in 1989. Today, it powers social media, e-commerce, cloud computing, AI applications, and global entertainment. Modern technology also brings challenges like misinformation, cybercrime, and privacy concerns. Yet it continues to expand, shaping education, work, and human interaction in unprecedented ways.
+
+Artificial Intelligence
+Artificial Intelligence (AI) simulates human intelligence using algorithms, machine learning, and deep learning techniques. Early AI focused on rule-based systems, while modern AI leverages neural networks, natural language processing, and generative models. AI applications include chatbots, recommendation engines, autonomous vehicles, and scientific research. Generative AI, like LLaMA and GPT models, can produce text, code, and images, transforming content creation. Ethical considerations such as bias, privacy, and job displacement are central to AI development. The future promises AI that is more general, adaptive, and capable of reasoning across multiple domains.
+
+Climate and Environment
+Human activity has significantly impacted Earth’s climate, leading to global warming, extreme weather events, and biodiversity loss. Industrialization, deforestation, and greenhouse gas emissions contribute to rising temperatures and sea levels. Conservation efforts, renewable energy, and sustainable practices are crucial to mitigate environmental damage. Understanding ecosystems, preserving habitats, and adopting climate-smart policies are essential for long-term planetary health.
+
+Modern Medicine
+Medical science has evolved tremendously, from early herbal remedies to advanced genomics and biotechnology. Vaccinations, antibiotics, and surgical innovations have saved millions of lives. Telemedicine, AI-assisted diagnostics, and personalized medicine are shaping healthcare’s future. Research into pandemics, cancer, and genetic disorders continues to expand human knowledge, improving health outcomes globally.
+
+WebSom is a Jalandhar-based Digital Marketing and Web Services firm. This company helps businesses establish their presence in the online world. Their services include offerings such as website designing, digital marketing, and email marketing. WebSom has a rating of 4.8 stars on Justdial, which shows the satisfaction of their clients. They have made a name for themselves in email marketing services and have become a trusted partner for local businesses. 📞 Contact Info:
+
+Phone: 98880 28075
+
+Email: Available on their official website.
+
+Website: websom.in
+
+WebSom is owned by Raj Kumar Maurya, who is also a UNESCO certified and a WordPress SEO Expert
